@@ -1,0 +1,96 @@
+{"cons": "320", "pReading": "0", "cost":480 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "0", "cost":647.2 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "400", "pReading": "0", "cost":300 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "300", "pReading": "320", "cost":450 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "16", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "420", "pReading": "400", "cost":315 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "330", "pReading": "620", "cost":495 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "31", "cost":647.2 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "390", "pReading": "820", "cost":292.5 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "315", "pReading": "935", "cost":472.5 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "17", "pReading": "47", "cost":687.65 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "415", "pReading": "1210", "cost":311.25 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "310", "pReading": "1265", "cost":465 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "62", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "410", "pReading": "1630", "cost":307.5 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "305", "pReading": "1575", "cost":457.5 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "77", "cost":647.2 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "390", "pReading": "2040", "cost":292.5 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "300", "pReading": "1880", "cost":450 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "93", "cost":647.2 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "415", "pReading": "2430", "cost":311.25 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "320", "pReading": "2180", "cost":480 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "17", "pReading": "109", "cost":687.65 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "420", "pReading": "2845", "cost":315 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "315", "pReading": "2500", "cost":472.5 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "126", "cost":647.2 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "416", "pReading": "3265", "cost":312 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "310", "pReading": "2815", "cost":465 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "142", "cost":647.2 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "412", "pReading": "3681", "cost":309 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "305", "pReading": "3125", "cost":457.2 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "158", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "408", "pReading": "4093", "cost":306 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "300", "pReading": "3430", "cost":450 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "173", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "395", "pReading": "4501", "cost":296.25 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "300", "pReading": "3730", "cost":450 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "188", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "395", "pReading": "4896", "cost":296.25 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "290", "pReading": "4030", "cost":435 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "203", "cost":647.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "400", "pReading": "5291", "cost":300 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "320", "pReading": "4320", "cost":480 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "219", "cost":647.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "400", "pReading": "5691", "cost":300 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "300", "pReading": "", "cost":450 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "14", "pReading": "", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "400", "pReading": "", "cost":315 , "provider": "WTR_TMK", "id": "WTR001"}
+
+//user2
+
+
+
+
+{"cons": "280", "pReading": "0", "cost":420 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "14", "pReading": "0", "cost":566.3 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "350", "pReading": "0", "cost":262.5 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "290", "pReading": "280", "cost":435 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "14", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "355", "pReading": "350", "cost":266.25 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "295", "pReading": "570", "cost":442.5 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "29", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "357", "pReading": "705", "cost":267.75 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "300", "pReading": "865", "cost":450 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "16", "pReading": "44", "cost":647.2 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "360", "pReading": "1062", "cost":270 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "285", "pReading": "1165", "cost":427.5 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "14", "pReading": "60", "cost":566.3 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "360", "pReading": "1422", "cost":270 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "285", "pReading": "1450", "cost":427.5 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "14", "pReading": "74", "cost":566.3 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "355", "pReading": "1782", "cost":266.25 , "provider": "WTR_TMK", "id": "WTR001"}
+
+{"cons": "290", "pReading": "1735", "cost":435 , "provider": "BESCOM06", "id": "ELE002"}
+{"cons": "15", "pReading": "88", "cost":606.75 , "provider": "GASL01", "id": "GAS001"}
+{"cons": "355", "pReading": "2137", "cost":266.25 , "provider": "WTR_TMK", "id": "WTR001"}
