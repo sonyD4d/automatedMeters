@@ -1,7 +1,12 @@
 # Automated Smart Meters
 An IoT-based smart utility meter that integrates and monitors the consumption readings of multiple utility meters like electricity, water, etc. It is backed up with a scalable and distributed message passing system(Kafka) for load handling and a time-series database for storing these events. Thus, providing a billing mechanism and timely analysis for end users and service providers
 <hr>
+Architecture:
+
 <img src='IOT_meter.jpeg'>
+
+<img src='Project.jpeg'>
+
 <hr>
 
 ## Work Flow
